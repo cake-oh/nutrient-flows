@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
+site_name: 'Keiko Seafood Supply Chain Anaysis'
 site_description: 'Central resource for ESIIL postdoctoral researchers'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_url: https://cu-esiil.github.io/nutrient-flows
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: nutrient-flows
+repo_url: https://github.com/CU-ESIIL/nutrient-flows
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
