@@ -1,27 +1,23 @@
-[![DOI](https://zenodo.org/badge/733258046.svg)](https://zenodo.org/doi/10.5281/zenodo.11166823)
-
-# Postdoc OASIS
+# Seafood Nutrient Flows
 This is the central hub for information pertaining to ESIIL Postdocs
 
-# [Your Name]
+# Keiko Nomura
 
-Welcome to the [Your Name] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+Welcome to Keiko Nomura's repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
 
 ## Your Project
 
-[Provide a brief overview of your project here. Explain what you aim to achieve, the importance of your project, and its expected impact.]
+Fisheries provide numerous social, economic, and cultural benefits, including providing essential dietary nutrients to people worldwide. International trade and foreign fishing activities are important aspects of the ways seafood-derived nutrients are distributed globally. This project aims to understand how these dynamics affect the flow of these nutrient into Pacific nations that may be vulnerable to health impacts.
 
 ## Project Proposal
 
-[Link to the detailed project proposal document or include the proposal directly in the repository. This should outline the goals, methodologies, anticipated challenges, and projected timelines.]
+
 
 ## Collaborators and Co-Authors 
+- Keiko Nomura, ESIIL
+- Steven Mana'oakamai Johnson, Cornell University
+- Jacob Eurich, Environmental Defense Fund
 
-[List the names and a brief description of people you work with, possibly linking to their personal or professional web pages.]
-
-- **Collaborator 1**: Brief description.
-- **Collaborator 2**: Brief description.
-- ...
 
 ## Code Repository
 
