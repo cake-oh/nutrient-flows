@@ -56,6 +56,7 @@ theme:
     - toc.integrate
     - toc.follow
     - content.code.copy
+    content.action.edit
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette:
