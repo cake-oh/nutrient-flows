@@ -1,5 +1,8 @@
 # Seafood Trade and Nutrient Flows in Pacific Island Countries
 
+## Publications
+This work was recently published in the journal _Fish and Fisheries_ here: [Fisheries Trade and Blue Nutrient Flows in Pacific Island Countries](https://onlinelibrary.wiley.com/doi/10.1111/faf.70062) and covered in blog post by the Environmental Defense Fund here: [Trading Away Blue Nutrients](https://blogs.edf.org/edfish/2026/02/25/trading-away-blue-nutrients/). Check them out!
+
 ## Project Summary
 
 <p>
@@ -41,10 +44,8 @@
 - ESIIL Environmental Data Science Seminar, Oral Presentation (Nov. 2024)
 - CU Boulder Environmental Science Seminar, Oral Presentation (Feb. 2024)
 - Women in Network Science Seminar, Oral Presentation (April 2024) 
-- One Ocean Science Congress, Oral Presentation (June 2024 - upcoming)
-
-### Papers
-- International nutrient flows from seafood trade in the Pacific, Environmental Research Letters, _in prep_
+- UN One Ocean Science Congress, Oral Presentation - Nice, France (June 2024)
+- Ocean Sciences Meeting, Oral Presentation - Glasgow, Scotland (February 2025)
 
 
 ## About the Author
