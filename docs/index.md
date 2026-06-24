@@ -1,6 +1,7 @@
 # Seafood Trade and Nutrient Flows in Pacific Island Countries
 
-Welcome to the project repository of Keiko Nomura, a postdoctoral researcher at the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
+## Publications
+This work was recently published in the journal _Fish and Fisheries_ here: [Fisheries Trade and Blue Nutrient Flows in Pacific Island Countries](https://onlinelibrary.wiley.com/doi/10.1111/faf.70062) and covered in blog post by the Environmental Defense Fund here: [Trading Away Blue Nutrients](https://blogs.edf.org/edfish/2026/02/25/trading-away-blue-nutrients/). Check them out!
 
 ## Project Summary
 
