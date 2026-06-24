@@ -1,6 +1,5 @@
 # Seafood Trade and Nutrient Flows in Pacific Island Countries
 
-## Publications
 This work was recently published in the journal _Fish and Fisheries_ here: [Fisheries Trade and Blue Nutrient Flows in Pacific Island Countries](https://onlinelibrary.wiley.com/doi/10.1111/faf.70062) and covered in blog post by the Environmental Defense Fund here: [Trading Away Blue Nutrients](https://blogs.edf.org/edfish/2026/02/25/trading-away-blue-nutrients/). Check them out!
 
 ## Project Summary
